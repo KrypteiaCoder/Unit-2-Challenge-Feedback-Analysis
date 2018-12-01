@@ -1,0 +1,2 @@
+# Unit-2-Challenge-Feedback-Analysis
+Pick one of the company data files and build your own classifier. When you're satisfied with its performance (at this point just using the accuracy measure shown in the example), test it on one of the other datasets to see how well these kinds of classifiers translate from one context to another.  Include your model and a brief writeup of your feature engineering and selection process to submit and review with your mentor.
